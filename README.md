@@ -29,7 +29,7 @@ def circulate():
    print("After circulating the values are:",result)
    ```
 ## Output:
-![output](exp2py.png)
+![output](exp1.png)
 
 ## Result:
 Thus the program to circulate the N values is written and verified using python programming.
